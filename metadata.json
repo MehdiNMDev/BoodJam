@@ -1,0 +1,6 @@
+{
+  "name": "ResidScan - OCR Receipt Tracker & Expense Reports",
+  "description": "Smart receipt scanner with OCR that automatically extracts and categorizes expenses, generates monthly spending reports, exports to Excel (.xlsx/.xls), CSV, and PDF with full Farsi (فارسی) language and Jalali calendar support.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
